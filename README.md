@@ -9,9 +9,9 @@ Este es mi portafolio como desarrolladora frontend. Aquí muestro mi perfil, inf
 ## 📂 Estructura
 
 - `index.html` → página principal
-- `styles.css` → estilos (paleta UI/UX personalizada)
-- `script.js` → interactividad básica (navegación, footer dinámico)
-- `README.md` → documentación del proyecto
+- `styles.css` → estilos
+- `script.js` → interactividad básica
+- `README.md` → documentación
 
 ## 🛠️ Tecnologías usadas
 
@@ -21,10 +21,9 @@ Este es mi portafolio como desarrolladora frontend. Aquí muestro mi perfil, inf
 
 ## ✨ Características
 
-- Sidebar fijo en pantallas grandes
 - Menú con secciones activas
-- Iconos sociales y contacto directo
-- Diseño responsive (móviles y desktop)
+- Iconos sociales y contacto 
+- Diseño responsive
 
 ## 📸 Preview
 
